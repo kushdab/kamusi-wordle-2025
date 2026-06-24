@@ -1,0 +1,12 @@
+{
+  "name": "kamusi-wordle-2025",
+  "version": "1.0.0",
+  "description": "A Swahili-language Wordle clone to promote literacy.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": ["wordle", "swahili", "game", "education"],
+  "author": "LanguageDev",
+  "license": "MIT"
+}
